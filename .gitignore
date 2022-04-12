@@ -130,3 +130,7 @@ dmypy.json
 
 *.avi
 *.mp4
+*.pth
+*.pt
+*.h5
+*.hdf5
